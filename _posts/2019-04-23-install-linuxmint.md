@@ -8,34 +8,28 @@ description: 如何利用USB設備安裝Linux Mint
 
 **重要**：在开始下面的工作之前，首先确保U盘没有存任何东西，或者里面没有放任何的重要数据（因为烧录会导致数据丢失），同时电脑上已经准备好空的分区（安装到的目标分区的数据也会被抹掉）。
 
-# 准备 U 盘
+## 準備一個用於安裝Linux Mint的USB設備
 
-第一件事，准备一个可以启动的 U 盘以供安装 Linux。
+首先準備一個USB設備，可以是U盤也可以是USB的移動硬盤，
+之後會在這個上面寫入供安裝Linux Mint的安裝程式。
 
-* 在 Windows 操作系统下刻录一个可以安装 Linux 的 U 盘：
+* 如果你使用的是Windows操作系統，那麼點擊
+[這裡](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#0)
+來查看Ubuntu官方的教程以創建一個可以安裝Linux的USB設備。
 
-[点击打开教程](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#0)
+**注意**：上面的教程是教你如何製作一個用於安裝Ubuntu的USB設備，
+安裝Linux Mint的情況下僅需要把涉及到iso文件的地方換成Linux Mint的iso文件，其他地方完全相同。
 
-**注意**：上面的教程提到的是安装 Linux 的 Ubuntu 发行版，安装 Linux Mint 的话刻录 U 盘的过程的也是一样的，把教程中的需要用到 Ubuntu 镜像的地方换成 Linux Mint 的镜像即可。
+* 其中會用到的軟件叫做Rufus，上面的教程裡面也有提到，點擊
+[這裏](https://rufus.akeo.ie/)
+打開Rufus的官方網站，你也可以點擊
+[這裏](https://github.com/pbatard/rufus/releases/download/v3.5/rufus-3.5.exe)
+直接下載Rufus。
 
-* 其中会用到的软件叫做 Rufus，上面的说明里面有提到，官方网站是：
+## Linux Mint的iso文件
 
-[点击打开 Rufus 的官方网站](https://rufus.akeo.ie/)
-
-* 直接下载的话链接是：
-
-[点击直接下载 Rufus](https://github.com/pbatard/rufus/releases/download/v3.5/rufus-3.5.exe)
-
-# 安装 Linux Mint
-
-第二件事，安装 Linux 发行版，这里安装的是 Linux Mint。
-
-下面是 Linux Mint 的官方网站：
-
-[Linux Mint 官方网站](https://linuxmint.com/)
-
-* 直接下载的链接是：
-
-[点击直接下载 Linux Mint 最新版本](http://mirrors.evowise.com/linuxmint/stable/19.1/linuxmint-19.1-cinnamon-64bit.iso)
-
-（持续更新）
+前一節提到的Linux Mint的iso文件需要從下面的地方獲取。點擊
+[這裏](https://linuxmint.com/)
+打開Linux Mint的官方網站。或者你也可以點擊
+[這裏](http://mirrors.evowise.com/linuxmint/stable/19.1/linuxmint-19.1-cinnamon-64bit.iso)
+直接下載Linux Mint 19.1版本。
