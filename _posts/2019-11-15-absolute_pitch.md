@@ -39,7 +39,7 @@ description: 絶対音感について
 とし， 公比を\(r\)とすると，
 </p>
 
-\[
+\\[
 
 a_{12} = a_{0} \times r^{12} =  a_0 \times 2
 
@@ -47,4 +47,15 @@ r^{12} = 2 \Rightarrow r = \sqrt[12]{2} \approx 1.059463094
 
 a_n = a_0 \times r^n = a_0 \times 2^{\frac{n}{12}}
 
-\]
+\\]
+
+
+<p>\[
+
+a_{12} = a_{0} \times r^{12} =  a_0 \times 2
+
+r^{12} = 2 \Rightarrow r = \sqrt[12]{2} \approx 1.059463094
+
+a_n = a_0 \times r^n = a_0 \times 2^{\frac{n}{12}}
+
+\]</p>
