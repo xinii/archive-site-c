@@ -2,8 +2,8 @@
 title: How to install Linux Mint from USB device
 tags: [Linux, Linux Mint, Install, USB, Chinese]
 style: fill
-color: primary
-description: 如何从USB设备安装Linux Mint
+color: danger
+description: 如何利用USB設備安裝Linux Mint
 ---
 
 **重要**：在开始下面的工作之前，首先确保U盘没有存任何东西，或者里面没有放任何的重要数据（因为烧录会导致数据丢失），同时电脑上已经准备好空的分区（安装到的目标分区的数据也会被抹掉）。
