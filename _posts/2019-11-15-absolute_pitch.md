@@ -30,15 +30,15 @@ description: 絶対音感について
 
 
 音の周波数を等比数列
+\(a_0, a_1, a_2 \dots a_{12})\
+とし， 公比を\(r)\とすると，
 
-```latex
-a_0, a_1, a_2 \dots a_{12}
-```
-とし， 公比を
-$$a_0, a_1, a_2 \dots a_{12}$$
-`r`
-とすると
+\[
 
-When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
-\[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
+a_{12} = a_{0} \times r^{12} =  a_0 \times 2
 
+r^{12} = 2 \Rightarrow r = \sqrt[12]{2} \approx 1.059463094
+
+a_n = a_0 \times r^n = a_0 \times 2^{\frac{n}{12}}
+
+]\
