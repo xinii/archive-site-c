@@ -1,6 +1,6 @@
 ---
 title: Earth language
-tags: [language, english]
+tags: [Language, English]
 style: fill
 color: success
 description: The Earth Without Country Border

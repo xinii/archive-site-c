@@ -3,15 +3,15 @@ title: How to Install OpenCV on NVIDIA Jetson Nano
 tags: [OpenCV, NVIDIA, Jetson Nano, Install, Chinese]
 style: fill
 color: info
-description: 在Jetson Nano上安裝OpenCV
+description: 在Jetson Nano上安装OpenCV
 ---
 
 ## 生成swap文件
 
-為防止編譯途中由於內存不足等問題報錯，
-這裏首先提前創建壹個swap文件，存放路徑任意。
-重啟後swap空間會消失，
-以下編譯等全部工作完成後可以手動刪除這個文件。
+为防止编译途中由于内存不足等问题报错，
+这里首先提前创建一个swap文件，存放路径任意。
+重启后swap空间会消失，
+以下编译等全部工作完成后可以手动删除这个文件。
 
 ```sh
 $ fallocate -l 4G swapfile
@@ -21,11 +21,11 @@ $ sudo swapon swapfile
 $ swapon -s
 ```
 
-## 生成安裝腳本
+## 生成安装脚本
 
-[安裝OpenCV 4.0.0版本的腳本原始鏈接](https://github.com/AastaNV/JEP/blob/master/script/install_opencv4.0.0_Nano.sh)
+[安装OpenCV 4.0.0版本的脚本原始链接](https://github.com/AastaNV/JEP/blob/master/script/install_opencv4.0.0_Nano.sh)
 
-以上是安裝OpenCV 4.0.0的版本，在這裏我們希望安裝較新的4.1.0版本，將上面的代碼稍作改動（版本號的部分）：
+以上是安装OpenCV 4.0.0的版本，在这里我们希望安装较新的4.1.0版本，将上面的代码稍作改动（版本号的部分）：
 
 ```sh
 #!/bin/bash
@@ -78,36 +78,36 @@ echo "** Install opencv-4.1.0 successfully"
 echo "** Bye :)"
 ```
 
-將上面的腳本保存為`sh`文件，例如`install_opencv4.1.0_Nano.sh`。
+将上面的脚本保存为`sh`文件，例如`install_opencv4.1.0_Nano.sh`。
 
-## 運行腳本
+## 运行脚本
 
 ```sh
 mkdir opencv
 sh install_opencv4.1.0_Nano.sh opencv
 ```
-安裝會比較花時間，耐心等待安裝結束，建議使用tmux等掛在後臺執行。
+安装会比较花时间，耐心等待安装结束，建议使用tmux等挂在后台执行。
 
 
-## 測試安裝好的OpenCV
+## 测试安装好的OpenCV
 
-通過python的交互界面測試語句`import cv2`，不報錯則安裝完成。
+通过python的交互界面测试语句`import cv2`，不报错则安装完成。
 
-不過，考慮到使用pyenv等工具進行python版本管理的用戶，
-此時如果切換到pyenv下安裝的python版本可能無法檢測到已安裝的OpenCV，
-作為解決版本是創建壹個OpenCV庫的軟鏈接到pyenv中python版本的庫目錄下。
+不过，考虑到使用pyenv等工具进行python版本管理的用户，
+此时如果切换到pyenv下安装的python版本可能无法检测到已安装的OpenCV，
+作为解决版本是创建一个OpenCV库的软链接到pyenv中python版本的库目录下。
 
-假設妳的pyenv中的python版本的庫目錄為
+假设你的pyenv中的python版本的库目录为
 `/home/xin/.anyenv/envs/pyenv/versions/3.6.8/lib/python3.6/site-packages`，
-安裝好的OpenCV庫路徑為
+安装好的OpenCV库路径为
 `/usr/local/lib/python3.6/dist-packages/cv2/python-3.6/cv2.cpython-36m-aarch64-linux-gnu.so`，
-那麽執行下面的語句即可創建軟鏈接。
+那么执行下面的语句即可创建软链接。
 
 ```sh
 cd /home/xin/.anyenv/envs/pyenv/versions/3.6.8/lib/python3.6/site-packages
 ln -s /usr/local/lib/python3.6/dist-packages/cv2/python-3.6/cv2.cpython-36m-aarch64-linux-gnu.so ./
 ```
 
-另外提前使用pyenv中的python版本的pip通過
-`pip install numpy`語句安裝好numpy，
-去交互界面測試`import cv2`無錯誤顯示則安裝完成。
+另外提前使用pyenv中的python版本的pip通过
+`pip install numpy`语句安装好numpy，
+去交互界面测试`import cv2`无错误显示则安装完成。
