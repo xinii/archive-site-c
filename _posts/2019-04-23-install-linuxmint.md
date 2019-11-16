@@ -8,6 +8,8 @@ description: 如何利用USB设备安装Linux Mint
 
 <link rel="stylesheet" href="https://ss1.xrea.com/xin.g2.xrea.com/content/blog_style/chinese-font.css">
 
+Author: [Xin Li](https://xinii.github.io/about/)
+
 **重要**：在开始下面的工作之前，首先确保U盘没有存任何东西，
 或者里面没有放任何的重要数据（因为烧录会导致数据丢失），
 同时电脑上已经准备好空的分区（安装到的目标分区的数据也会被抹掉）。
@@ -17,7 +19,7 @@ description: 如何利用USB设备安装Linux Mint
 首先准备一个USB设备，可以是U盘也可以是USB的移动硬盘，
 之后会在这个上面写入供安装Linux Mint的安装程式。
 
-* 如果你使用的是Windows操作系统，那麽点击
+* 如果你使用的是Windows操作系统，那么点击
 [这里](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#0)
 来查看Ubuntu官方的教程以创建一个可以安装Linux的USB设备。
 

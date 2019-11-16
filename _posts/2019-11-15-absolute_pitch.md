@@ -6,6 +6,8 @@ color: secondary
 description: 絶対音感について
 ---
 
+Author: [Xin Li](https://xinii.github.io/about/)
+
 ## 音階と音の周波数
 
 次の表に，ピアノの鍵盤における88のキーに相応する音の周波数を示す。

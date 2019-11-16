@@ -8,6 +8,8 @@ description: 在使用emacs时gnutls的重要性
 
 <link rel="stylesheet" href="https://ss1.xrea.com/xin.g2.xrea.com/content/blog_style/chinese-font.css">
 
+Author: [Xin Li](https://xinii.github.io/about/)
+
 若当前环境没有gnutls，
 那么在使用emacs源代码进行编译安装前的配置
 （`./configure`）时可以临时使用`--with-gnutls=no`选项，

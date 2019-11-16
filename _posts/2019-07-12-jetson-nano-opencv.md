@@ -8,6 +8,8 @@ description: 在Jetson Nano上安装OpenCV
 
 <link rel="stylesheet" href="https://ss1.xrea.com/xin.g2.xrea.com/content/blog_style/chinese-font.css">
 
+Author: [Xin Li](https://xinii.github.io/about/)
+
 ## 生成swap文件
 
 为防止编译途中由于内存不足等问题报错，
