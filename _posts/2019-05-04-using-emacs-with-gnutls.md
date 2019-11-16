@@ -1,7 +1,7 @@
 ---
 title: The importance of gnutls for emacs
 tags: [Emacs, Gnutls, HTTP, HTTPS, Chinese]
-style: fill
+style: border
 color: warning
 description: 在使用emacs時gnutls的重要性
 ---
