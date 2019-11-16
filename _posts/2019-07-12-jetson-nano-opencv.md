@@ -6,6 +6,8 @@ color: info
 description: 在Jetson Nano上安装OpenCV
 ---
 
+<style type="text/css"> body { font-family: 'STSong', 'Poppins', sans-serif; } </style>
+
 ## 生成swap文件
 
 为防止编译途中由于内存不足等问题报错，
