@@ -6,7 +6,7 @@ color: warning
 description: 在使用emacs时gnutls的重要性
 ---
 
-<style type="text/css"> body { font-family: 'STSong', 'Poppins', sans-serif; } </style>
+<link rel="stylesheet" href="https://ss1.xrea.com/xin.g2.xrea.com/content/blog_style/chinese-font.css">
 
 若当前环境没有gnutls，
 那么在使用emacs源代码进行编译安装前的配置

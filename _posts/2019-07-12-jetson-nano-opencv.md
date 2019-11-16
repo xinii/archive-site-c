@@ -6,7 +6,7 @@ color: info
 description: 在Jetson Nano上安装OpenCV
 ---
 
-<style type="text/css"> body { font-family: 'STSong', 'Poppins', sans-serif; } </style>
+<link rel="stylesheet" href="https://ss1.xrea.com/xin.g2.xrea.com/content/blog_style/chinese-font.css">
 
 ## 生成swap文件
 
