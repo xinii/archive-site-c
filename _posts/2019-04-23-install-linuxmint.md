@@ -16,7 +16,7 @@ description: 如何利用USB設備安裝Linux Mint
 之後會在這個上面寫入供安裝Linux Mint的安裝程式。
 
 * 如果妳使用的是Windows操作系統，那麼點擊
-[這裡](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#0)
+[這裏](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#0)
 來查看Ubuntu官方的教程以創建壹個可以安裝Linux的USB設備。
 
 **註意**：上面的教程是教妳如何製作壹個用於安裝Ubuntu的USB設備，
