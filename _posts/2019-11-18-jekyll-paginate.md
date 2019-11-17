@@ -29,7 +29,7 @@ pagination:
 ```
 3. ページ表示をしたいテンプレートファイルを編集する。自分の場合 index.html を以下のコードのように改変した。
 
-```
+```html
 ---
 layout: index
 title: Home
@@ -41,7 +41,7 @@ pagination:
   {% for post in paginator.posts %}
   <h1><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h1>
   <ul>
-    <li>⏰ {{ post.date | date: '%F %H:%M' }} </li>
+    <li> alarm {{ post.date | date: '%F %H:%M' }} </li>
   </ul>
 
   {% endfor %}
