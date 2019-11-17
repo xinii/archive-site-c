@@ -29,6 +29,8 @@ pagination:
 ```
 - ページ表示をしたいテンプレートファイルを編集する。自分の場合 index.html を以下のコードのように改変した。
 
+{% gist 37ec2c22ec4ae735fcd2a122385d0189 pagination.erb %}
+
 ```text
 ---
 layout: index
