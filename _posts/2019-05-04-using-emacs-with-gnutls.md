@@ -4,11 +4,9 @@ tags: [Emacs, Gnutls, HTTP, HTTPS, Chinese]
 style: border
 color: warning
 description: 在使用emacs时gnutls的重要性
+author: xin
+language: zh
 ---
-
-<link rel="stylesheet" href="https://ss1.xrea.com/xin.g2.xrea.com/content/blog_style/chinese-font.css">
-
-Author: [Xin Li](https://xinii.github.io/about/)
 
 若当前环境没有gnutls，
 那么在使用emacs源代码进行编译安装前的配置
