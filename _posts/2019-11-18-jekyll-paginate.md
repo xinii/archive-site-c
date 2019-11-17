@@ -17,54 +17,12 @@ Jekyllでつくったサイトも記事が増えて１ページで収まりき�
 - “Gemfile”に“gem ‘jekyll-paginate-v2’”を追記して“bundle install”を実行する。
 - “_config.yml”に以下のコードを挿入する。
 
-```yml
-plugins:
-  - jekyll-paginate-v2
-  
-pagination:
-  enabled: true
-  per_page: 10
-  sort_reverse: true
-  sort_field: 'date'
-```
+{% gist 70cc4adf649df5e8d03a7abffd715a9f jekyll-paginate-v2-config.yml %}
+
 - ページ表示をしたいテンプレートファイルを編集する。自分の場合 index.html を以下のコードのように改変した。
 
 {% gist 37ec2c22ec4ae735fcd2a122385d0189 pagination.erb %}
 
-```text
----
-layout: index
-title: Home
-pagination: 
-  enabled: true
----
-
-<div id="main">
-  {% for post in paginator.posts %}
-  <h1><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h1>
-  <ul>
-    <li> alarm {{ post.date | date: '%F %H:%M' }} </li>
-  </ul>
-
-  {% endfor %}
-
-  <div class="pagination">
-    {% if paginator.previous_page == 1 %}
-      <a href="../" class="previous">Previous</a>
-    {% elsif paginator.previous_page %}
-      <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
-    {% else %}
-      <span class="previous">Previous</span>
-    {% endif %}
-      <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.next_page %}
-      <a href="/page{{ paginator.next_page }}" class="next">Next</a>
-    {% else %}
-      <span class="next ">Next</span>
-    {% endif %}
-  </div>
-</div>
-```
 - ビルドをおこない、確認する。
 - おしまい
 
