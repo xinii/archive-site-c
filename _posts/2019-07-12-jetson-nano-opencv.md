@@ -4,9 +4,10 @@ tags: [OpenCV, NVIDIA, Jetson Nano, Install, Chinese]
 style: fill
 color: info
 description: 在Jetson Nano上安装OpenCV
+author: xin
 ---
 
-<link rel="stylesheet" href="https://ss1.xrea.com/xin.g2.xrea.com/content/blog_style/chinese-font.css">
+
 
 Author: [Xin Li](https://xinii.github.io/about/)
 

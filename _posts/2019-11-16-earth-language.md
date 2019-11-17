@@ -4,7 +4,7 @@ tags: [Language, English]
 style: fill
 color: success
 description: The Earth Without Country Border
-origin: xin
+author: xin
 ---
 
 ## About earth language

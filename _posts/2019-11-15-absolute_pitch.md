@@ -4,9 +4,8 @@ tags: [Music, Absolute Pitch, Japanese]
 style: fill
 color: secondary
 description: 絶対音感について
+author: xin
 ---
-
-Author: [Xin Li](https://xinii.github.io/about/)
 
 ## 音階と音の周波数
 
