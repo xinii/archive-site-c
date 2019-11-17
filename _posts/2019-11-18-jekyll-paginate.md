@@ -29,7 +29,7 @@ pagination:
 ```
 3. ページ表示をしたいテンプレートファイルを編集する。自分の場合 index.html を以下のコードのように改変した。
 
-```html
+```text
 ---
 layout: index
 title: Home
