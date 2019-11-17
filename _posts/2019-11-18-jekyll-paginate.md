@@ -14,8 +14,8 @@ Jekyllでつくったサイトも記事が増えて１ページで収まりき�
 
 ## やること
 
-1. “Gemfile”に“gem ‘jekyll-paginate-v2’”を追記して“bundle install”を実行する。
-2. “_config.yml”に以下のコードを挿入する。
+- “Gemfile”に“gem ‘jekyll-paginate-v2’”を追記して“bundle install”を実行する。
+- “_config.yml”に以下のコードを挿入する。
 
 ```yml
 plugins:
@@ -27,7 +27,7 @@ pagination:
   sort_reverse: true
   sort_field: 'date'
 ```
-3. ページ表示をしたいテンプレートファイルを編集する。自分の場合 index.html を以下のコードのように改変した。
+- ページ表示をしたいテンプレートファイルを編集する。自分の場合 index.html を以下のコードのように改変した。
 
 ```text
 ---
@@ -63,8 +63,8 @@ pagination:
   </div>
 </div>
 ```
-4. ビルドをおこない、確認する。
-5. おしまい
+- ビルドをおこない、確認する。
+- おしまい
 
 ## 気をつけること
 
