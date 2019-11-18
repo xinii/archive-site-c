@@ -1,25 +1,24 @@
 <!DOCTYPE html>
 
 <!--
-  portfolYOU Jekyll theme by Youssef Raafat
-  Free for personal and commercial use under the MIT license
-  https://github.com/YoussefRaafatNasry/portfolYOU
+     Modified by Xin Li and following the same MIT license,
+     Thanks to the original author for his contribution.
+     https://github.com//xinii/xinii.github.io
+-->
+<!--
+     portfolYOU Jekyll theme by Youssef Raafat
+     Free for personal and commercial use under the MIT license
+     https://github.com/YoussefRaafatNasry/portfolYOU
 -->
 
 <html lang="en" class="h-100">
-
-{% include head.html %}
-
-<body class="d-flex flex-column h-100">
-
-  <main class="flex-shrink-0 container mt-5">
-  {% include navbar.html %}
-  {{ content }}
-  </main>
-
-  {% include footer.html %}
-  {% include scripts.html %}
-
-</body>
-
+    {% include head.html %}
+    <body class="d-flex flex-column h-100">
+	<main class="flex-shrink-0 container mt-5">
+	    {% include navbar.html %}
+	    {{ content }}
+	</main>
+	{% include footer.html %}
+	{% include scripts.html %}
+    </body>
 </html>
