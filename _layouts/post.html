@@ -6,41 +6,41 @@ layout: page
 <meta name="description" content="{{ page.description }}">
 
 <p class="article-metadata text-muted">
-    {{ page.date | date_to_long_string }} -  
-    <b>
-	{% assign words = content | number_of_words %}
-	{% if words < 360 %}
-	less than 1 min read time
-	{% else %}
-	{{ words | divided_by:180 }} mins read time
-	{% endif %}
-    </b>
-
-    <br>
-
-    {% if page.tags != empty %}
-    Tags: 
-    {% for tag in page.tags %}
-    <a class="text-decoration-none no-underline" href="{{ tag | slugify | prepend:'/articles/tags#' | relative_url }}">
-	<span class="tag badge badge-pill text-primary border border-primary">{{ tag }}</span>
-    </a>
-    {% endfor %}
+  {{ page.date | date_to_long_string }} -  
+  <b>
+    {% assign words = content | number_of_words %}
+    {% if words < 360 %}
+    less than 1 min read time
+    {% else %}
+    {{ words | divided_by:180 }} mins read time
     {% endif %}
+  </b>
 
-    <br>
-    
-    {% if page.author == 'xin' %}
-    Author: <a href="https://xinii.github.io/about/">Xin Li</a>
-    {% endif %}
+  <br>
 
-    {% if page.language == 'zh' %}
-    <link rel="stylesheet" href="https://ss1.xrea.com/xin.g2.xrea.com/content/blog-style/chinese-font.css">
-    {% endif %}
+  {% if page.tags != empty %}
+  Tags: 
+  {% for tag in page.tags %}
+  <a class="text-decoration-none no-underline" href="{{ tag | slugify | prepend:'/articles/tags#' | relative_url }}">
+    <span class="tag badge badge-pill text-primary border border-primary">{{ tag }}</span>
+  </a>
+  {% endfor %}
+  {% endif %}
+
+  <br>
+
+  {% if page.author == 'xin' %}
+  Author: <a href="https://xinii.github.io/about/">Xin Li</a>
+  {% endif %}
+
+  {% if page.language == 'zh' %}
+  <link rel="stylesheet" href="https://ss1.xrea.com/xin.g2.xrea.com/content/blog-style/chinese-font.css">
+  {% endif %}
 </p>
 
 {{ content }}
 
 <footer>
-    This Article is <b>open source</b>. Noticed a typo? </br>
-    Or something unclear? Improve it on {% github_edit_link "GitHub" %}.
+  This Article is <b>open source</b>. Noticed a typo? </br>
+  Or something unclear? Improve it on {% github_edit_link "GitHub" %}.
 </footer>
