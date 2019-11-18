@@ -2,8 +2,7 @@
 
 ## Tips for run in local:
 
-* Add the configure below to `Gemfile`,
-then, run `bundle install`.
+* Add the configure below to `Gemfile`, then run `bundle install`.
 
 ```Gemfile
 gem 'jekyll-coffeescript'
@@ -17,7 +16,8 @@ gem 'jekyll-titles-from-headings'
 gem 'jekyll-relative-links'
 ```
 
-* When finished install, add the configure below to `_config.yml` (Maybe don't need) and uncomment `remote_theme`.
+* When finished install, add the configure below to `_config.yml` and uncomment `remote_theme`.
+> May not need, you can try the next step first, if it can not run well, do this step.
 
 ```yml
 plugins:
@@ -32,3 +32,5 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-relative-links
 ```
+
+* Run `jekyll serve` or `bundle exec jekyll serve` or `bundle exec jekyll serve --port 80`.
