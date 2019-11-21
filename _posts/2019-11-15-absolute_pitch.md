@@ -2,7 +2,7 @@
 title: About absolute pitch
 tags: [Music, Absolute Pitch, Japanese]
 style: fill
-color: secondary
+color: primary
 description: 絶対音感について
 author: xin
 comments: true

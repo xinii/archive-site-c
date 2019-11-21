@@ -2,7 +2,7 @@
 title: Tips for improving kana input for Japanese
 tags: [IME, Kana Input Method, JIS, Japanese]
 style: border
-color: success
+color: secondary
 description: かな入力上達のためのコツ
 comments: true
 ---

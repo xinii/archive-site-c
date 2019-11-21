@@ -1,8 +1,8 @@
 ---
 title: The html export themes for org-mode
 tags: [Emacs, Org-mode, HTML Export, CSS, Theme, Japanese]
-style: border
-color: secondary
+style: fill
+color: success
 description: Org-modeでhtml exportの際のthemeについて
 comments: true
 ---

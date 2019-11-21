@@ -2,7 +2,7 @@
 title: About jekyll-paginate
 tags: [Jekyll, Website, Japanese]
 style: fill
-color: success
+color: warning
 description: Jekyllでページ区切りをしたいときには
 comments: true
 ---
