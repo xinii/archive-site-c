@@ -4,6 +4,7 @@ tags: [Jekyll, Website, Japanese]
 style: fill
 color: success
 description: Jekyllでページ区切りをしたいときには
+comments: true
 ---
 
 Source: [seahal.net](https://seahal.net/article/programming/2018/05/04/jekyll-paginate.html)
