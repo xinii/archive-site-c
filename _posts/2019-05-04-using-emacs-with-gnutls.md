@@ -6,6 +6,7 @@ color: warning
 description: 在使用emacs时gnutls的重要性
 author: xin
 language: zh
+comments: true
 ---
 
 若当前环境没有gnutls，

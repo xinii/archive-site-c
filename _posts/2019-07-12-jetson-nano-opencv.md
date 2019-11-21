@@ -6,6 +6,7 @@ color: info
 description: 在Jetson Nano上安装OpenCV
 author: xin
 language: zh
+comments: true
 ---
 
 ## 生成swap文件

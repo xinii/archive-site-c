@@ -6,6 +6,7 @@ color: danger
 description: 如何利用USB设备安装Linux Mint
 author: xin
 language: zh
+comments: true
 ---
 
 **重要**：在开始下面的工作之前，首先确保U盘没有存任何东西，

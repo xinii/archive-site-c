@@ -4,6 +4,7 @@ tags: [IME, Kana Input Method, JIS, Japanese]
 style: border
 color: success
 description: かな入力上達のためのコツ
+comments: true
 ---
 
 Source: [むーなか](https://oshiraseya.blog.fc2.com/blog-entry-7.html)

@@ -5,6 +5,7 @@ style: fill
 color: secondary
 description: 絶対音感について
 author: xin
+comments: true
 ---
 
 ## 音階と音の周波数

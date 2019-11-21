@@ -4,6 +4,7 @@ tags: [Emacs, Org-mode, HTML Export, CSS, Theme, Japanese]
 style: border
 color: secondary
 description: Org-modeでhtml exportの際のthemeについて
+comments: true
 ---
 
 Source: [taipapa](https://taipapamotohus.com/post/org-html-export-theme)
