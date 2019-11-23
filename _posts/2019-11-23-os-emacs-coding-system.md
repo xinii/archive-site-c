@@ -8,7 +8,7 @@ comments: true
 ---
 
 Source: [新城 靖](http://www.coins.tsukuba.ac.jp/~yas/coins/literacy-2014/2014-05-30/)
-（勉強文，修正あり）
+（勉強文，内容変更あり）
 
 ## PC
 
