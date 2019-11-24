@@ -1,10 +1,9 @@
 ---
 title: How to Install OpenCV on NVIDIA Jetson Nano
-tags: [OpenCV, NVIDIA, Jetson Nano, Install, Chinese]
+description: 在Jetson Nano上安装OpenCV
+tags: [OpenCV, NVIDIA, Jetson Nano, Python, Chinese]
 style: fill
 color: info
-description: 在Jetson Nano上安装OpenCV
-author: xin
 language: zh
 comments: true
 ---

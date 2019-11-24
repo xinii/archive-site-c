@@ -1,10 +1,9 @@
 ---
 title: The importance of gnutls for emacs
-tags: [Emacs, Gnutls, HTTP, HTTPS, Chinese]
-style: border
-color: warning
 description: 在使用emacs时gnutls的重要性
-author: xin
+tags: [Emacs, Gnutls, HTTP, HTTPS, Chinese]
+style: fill
+color: warning
 language: zh
 comments: true
 ---

@@ -1,10 +1,9 @@
 ---
 title: A pitfall when using org-mode with python code block
+description: Org-modeの中にPythonを実装した際の落とし穴
 tags: [Pitfall, Org-mode, Emacs, Python, Japanese]
 style: fill
 color: danger
-description: Org-modeの中にPythonを実装した際の落とし穴
-author: xin
 comments: true
 ---
 

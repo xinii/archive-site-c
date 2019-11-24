@@ -1,10 +1,9 @@
 ---
 title: About absolute pitch
+description: 絶対音感について
 tags: [Music, Absolute Pitch, Japanese]
 style: fill
 color: primary
-description: 絶対音感について
-author: xin
 comments: true
 ---
 

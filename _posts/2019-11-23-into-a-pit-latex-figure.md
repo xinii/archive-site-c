@@ -1,10 +1,9 @@
 ---
 title: A pitfall when insert a figure into LaTeX
+description: LaTeXのplatexを使う際のfigureに関する落とし穴
 tags: [Pitfall, LaTeX, Figure, Japanese]
 style: fill
 color: dark
-description: LaTeXのplatexを使う際のfigureに関する落とし穴
-author: xin
 comments: true
 ---
 

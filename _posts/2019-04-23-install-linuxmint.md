@@ -1,10 +1,9 @@
 ---
 title: How to install Linux Mint from USB device
-tags: [Linux, Linux Mint, Install, USB, Chinese]
+description: 如何利用USB设备安装Linux Mint
+tags: [Install, Linux Mint, Chinese]
 style: fill
 color: danger
-description: 如何利用USB设备安装Linux Mint
-author: xin
 language: zh
 comments: true
 ---
