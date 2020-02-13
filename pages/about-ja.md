@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About (JA)
 permalink: /about-ja/
 weight: 5
 ---
