@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About (ZH)
+title: Chinese
 permalink: /about-zh/
 weight: 4
 ---
