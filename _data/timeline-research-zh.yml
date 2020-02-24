@@ -1,10 +1,8 @@
 - title: 学术期刊论文
-  from: 2019
-  to: present
   description: 李 欣，新井 洋，濱上 知樹．
                船型データの分布を考慮した深層学習による造波抵抗推定．
                電気学会論文誌C（電子・情報・システム部門誌）， Vol. 140, No. 3
-
+               <br>
                Xin Li, and Tomoki Hamagami. “An Improved Auto-encoder
                Based on 2-level Prioritized Experience Replay for High Dimension Skewed Data”.
                Adaptation, Learning and Optimization, Springer (Selected paper)
