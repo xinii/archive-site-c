@@ -17,19 +17,19 @@ weight: 4
 {% include about/skills.html title="Minor skills" source=site.data.minor-skills %}
 </div>
 
-## Educational experience
+## 教育经历
 
 <div class="row">
 {% include about/zh/timeline-education.html %}
 </div>
 
-## Work experience and internships
+## 职务经历与实习
 
 <div class="row">
 {% include about/zh/timeline-work.html %}
 </div>
 
-## Research and software works
+## 学术及科研
 
 <div class="row">
 {% include about/zh/timeline-research.html %}
