@@ -9,18 +9,18 @@ weight: 4
 
 # **关于我**
 
-**{{ site.author.name }}**,<br>
-现居日本神奈川县横滨市。
-
-<div class="row">
-{% include about/skills.html title="Major skills" source=site.data.major-skills %}
-{% include about/skills.html title="Minor skills" source=site.data.minor-skills %}
-</div>
+李欣，现居日本神奈川县横滨市。
 
 ## 教育经历
 
 <div class="row">
 {% include about/zh/timeline-education.html %}
+</div>
+
+## 学术及科研
+
+<div class="row">
+{% include about/zh/timeline-research.html %}
 </div>
 
 ## 职务经历与实习
@@ -29,8 +29,7 @@ weight: 4
 {% include about/zh/timeline-work.html %}
 </div>
 
-## 学术及科研
-
 <div class="row">
-{% include about/zh/timeline-research.html %}
+{% include about/skills.html title="主要技能" source=site.data.major-skills %}
+{% include about/skills.html title="辅助技能" source=site.data.minor-skills %}
 </div>
