@@ -17,7 +17,7 @@ weight: 4
 {% include about/zh/timeline-education.html %}
 </div>
 
-## 学术及科研
+## 科研及软件著作
 
 <div class="row">
 {% include about/zh/timeline-research.html %}
