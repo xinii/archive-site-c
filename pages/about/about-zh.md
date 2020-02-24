@@ -20,17 +20,17 @@ weight: 4
 ## Educational experience
 
 <div class="row">
-{% include about/timeline-education.html %}
+{% include about/zh/timeline-education.html %}
 </div>
 
 ## Work experience and internships
 
 <div class="row">
-{% include about/timeline-work.html %}
+{% include about/zh/timeline-work.html %}
 </div>
 
 ## Research and software works
 
 <div class="row">
-{% include about/timeline-research.html %}
+{% include about/zh/timeline-research.html %}
 </div>

@@ -18,17 +18,17 @@ A person who likes all kinds of interesting things and wants anything to be bett
 ## Educational experience
 
 <div class="row">
-{% include about/timeline-education.html %}
+{% include about/en/timeline-education.html %}
 </div>
 
 ## Work experience and internships
 
 <div class="row">
-{% include about/timeline-work.html %}
+{% include about/en/timeline-work.html %}
 </div>
 
 ## Research and software works
 
 <div class="row">
-{% include about/timeline-research.html %}
+{% include about/en/timeline-research.html %}
 </div>
