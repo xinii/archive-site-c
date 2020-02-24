@@ -1,0 +1,15 @@
+- name: Machine learning and deep learning
+  percentage: 90
+  color: danger
+
+- name: Data analysis
+  percentage: 80
+  color:
+
+- name: Programming language (Python, Java, C/C++)
+  percentage: 80
+  color:
+
+- name: Web development (JS, CSS)
+  percentage: 75
+  color: success

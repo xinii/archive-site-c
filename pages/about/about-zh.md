@@ -5,14 +5,14 @@ permalink: /about-zh/
 weight: 4
 ---
 
-# **About Me**
+# **关于我**
 
-Hi I am **{{ site.author.name }}**,<br>
-A person who likes all kinds of interesting things and wants anything to be better.
+**{{ site.author.name }}**,<br>
+现居日本神奈川县横滨市。
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Major skills" source=site.data.major-skills %}
+{% include about/skills.html title="Minor skills" source=site.data.minor-skills %}
 </div>
 
 ## Educational experience

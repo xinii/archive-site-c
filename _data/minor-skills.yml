@@ -1,0 +1,15 @@
+- name: Emacs, org-mode and linux
+  percentage: 95
+  color: danger
+
+- name: Adobe Photoshop
+  percentage: 80
+  color:
+  
+- name: Piano and DAW (Logic Pro X)
+  percentage: 75
+  color: info
+  
+- name: Calligraphy
+  percentage: 70
+  color: dark
