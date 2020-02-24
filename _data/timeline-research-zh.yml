@@ -1,11 +1,39 @@
 - title: 学术期刊论文
   from: 2019年
   to: 2020年
-  description: [1] 李 欣，新井 洋，濱上 知樹．
+  description: "[1] 李 欣，新井 洋，濱上 知樹．
                船型データの分布を考慮した深層学習による造波抵抗推定．
                電気学会論文誌C（電子・情報・システム部門誌），Vol. 140, No. 3
                <br>
                [2] Xin Li, and Tomoki Hamagami.
                “An Improved Auto-encoder Based on 2-level Prioritized Experience Replay for High Dimension Skewed Data”.
-               Adaptation, Learning and Optimization, Springer (Selected paper)
+               Adaptation, Learning and Optimization, Springer (Selected paper)"
 
+- title: 国际学术会议
+  from: 2017年
+  to: 2019年
+  description: "[1] Xin Li, Masaya Nakata, Fumiya Hamatsu, and Tomoki Hamagami.
+               “A Research About Anomaly Detection Method for Multidimensional Time Series Data”.
+               Proceedings of 2017 ICEE, The International Conference on Electrical Engineering
+               <br>
+               [2] Xin Li, and Tomoki Hamagami.
+               “An Improved Auto-encoder Based on 2-level Prioritized Experience Replay for High Dimension Skewed Data”.
+               Proceedings of 2019 IES, The 23rd Asia Pacific Symposium on Intelligent and Evolutionary Systems"
+
+- title: 日本学术会议
+  from: 2018年
+  to: 2018年
+  description: "Xin Li, and Tomoki Hamagami.
+               “Prioritized Sampling Method for Autoencoder to Reduce Loss Rate for Skewed Data”.
+               Proceedings of 2018 FAN, The 28th Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence"
+
+- title: 其他出版物
+  from: 2016年
+  to: 2018年
+  description: "[1] 王晋炜，李欣．
+               外語專業學生口語交際策略實證研究-以西班牙語為例
+               第十一屆海峽兩岸外語教學研討會論文集，初版，台北：輔大書坊，2016：pp.1--11
+               <br>
+               [2] 王晋炜，李欣．
+               《唐吉诃德》一语多译平行语料库构建设想．
+               西班牙语论丛2017，第一版，外语教学与研究出版社，2017"
