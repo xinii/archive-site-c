@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Japanese
+title: 自己紹介
 permalink: /about-ja/
 weight: 5
 ---

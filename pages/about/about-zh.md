@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chinese
+title: 个人简介
 permalink: /about-zh/
 weight: 4
 ---
