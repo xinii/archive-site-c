@@ -5,6 +5,8 @@ permalink: /about-zh/
 weight: 4
 ---
 
+<link rel="stylesheet" href="https://ss1.xrea.com/xin.g2.xrea.com/content/blog-style/chinese-font.css">
+
 # **关于我**
 
 **{{ site.author.name }}**,<br>
