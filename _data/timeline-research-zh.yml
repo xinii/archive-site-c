@@ -1,61 +1,33 @@
-- title: 学术期刊论文
-  from: 2019年
+- title: 主要论文及国际会议
+  from: 2017年
   to: 2020年
   description: "[1] Xin Li and Tomoki Hamagami.
-               <br>
                Wave-making resistance estimation through deep learning considering the distribution of ship figure.
                <em>IEEJ Transactions on Electronics, Information and Systems</em>
                , 140(3), 2020. (in Japanese)
                <br>
-               [2] 	Xin Li and Tomoki Hamagami.
+               [2] Xin Li and Tomoki Hamagami.
+               An improved auto-encoder based on 2-level prioritized experience replay for high dimension skewed data.
+               In Hiroshi Sato, Saori Iwanaga, and Akira Ishii, editors,
+               <em>Proceedings of the 23rd Asia Pacific Symposium on Intelligent and Evolutionary Systems</em>,
+               volume 12 of <em>Proceedings in Adaptation, Learning and Optimization</em>, pages 93--105. Springer, 2020.
                <br>
+               [3] Xin Li and Tomoki Hamagami.
                Prioritized sampling method for autoencoder to reduce loss rate for skewed data.
                <em>The papers of technical meeting on systems, IEE Japan</em>
                , 2018(39):199--203, 2018.
                <br>
-               [3] 	Xin Li and Tomoki Hamagami.
-               <br>
-               An improved auto-encoder based on 2-level prioritized experience replay for high dimension skewed data.
-               In Hiroshi Sato, Saori Iwanaga, and Akira Ishii, editors,
-               <em>Proceedings of the 23rd Asia Pacific Symposium on Intelligent and Evolutionary Systems</em>
-               , volume 12 of
-               <em>Proceedings in Adaptation, Learning and Optimization</em>
-               , pages 93--105. Springer, 2020.
-               <br>
                [4] Xin Li and Tomoki Hamagami.
-               <br>
                Prioritized sampling method for autoencoder to reduce loss rate for skewed data.
-               In
-               <em>The 28th Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence</em>
-               , volume 2018, pages 199--203. The Institute of Electrical Engineers of Japan, 2018.
+               In <em>The 28th Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence</em>, volume 2018, pages 199--203.
+               The Institute of Electrical Engineers of Japan, 2018.
                <br>
-               [5] 	Xin Li, Masaya Nakata, Hamatsu Fumiya, and Tomoki Hamagami.
-               <br>
+               [5] Xin Li, Masaya Nakata, Hamatsu Fumiya, and Tomoki Hamagami.
                A research about anomaly detection method for multidimensional time series data.
-               In
-               <em>The International Conference on Electrical Engineering</em>
-               , 2017.
+               In <em>The International Conference on Electrical Engineering</em>, 2017.
                "
 
-- title: 国际学术会议
-  from: 2017年
-  to: 2019年
-  description: "· Xin Li, Masaya Nakata, Fumiya Hamatsu, and Tomoki Hamagami.
-               “A Research About Anomaly Detection Method for Multidimensional Time Series Data”.
-               Proceedings of 2017 ICEE, The International Conference on Electrical Engineering
-               <br>
-               · Xin Li, and Tomoki Hamagami.
-               “An Improved Auto-encoder Based on 2-level Prioritized Experience Replay for High Dimension Skewed Data”.
-               Proceedings of 2019 IES, The 23rd Asia Pacific Symposium on Intelligent and Evolutionary Systems"
-
-- title: 日本学术会议
-  from: 2018年
-  to: 2018年
-  description: "· Xin Li, and Tomoki Hamagami.
-               “Prioritized Sampling Method for Autoencoder to Reduce Loss Rate for Skewed Data”.
-               Proceedings of 2018 FAN, The 28th Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence"
-
-- title: 其他出版物
+- title: 合作出版物
   from: 2016年
   to: 2018年
   description: "(1) 王晋炜，李欣．
@@ -67,7 +39,7 @@
                第十一屆海峽兩岸外語教學研討會論文集，初版，台北：輔大書坊，2016：pp.1--11"
 
 - title: 软件著作
-  from: 2014年
+  from: 2015年
   to: 2014年
   description: "(1) 2014年11月：软件「基于人脸识别和语音识别的眼保健操软件」
                获国家版权局计算机软件著作权登记证书（登记号：2014SR177728；证书号：软著登字第0846964号）。
