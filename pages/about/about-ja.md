@@ -1,34 +1,33 @@
 ---
 layout: page
-title: 自己紹介
+title: 私について
 permalink: /about-ja/
 weight: 5
 ---
 
-# **About Me**
+# **私について**
 
-Hi I am **{{ site.author.name }}**,<br>
-A person who likes all kinds of interesting things and wants anything to be better.
+氏名：李欣，現在神奈川県横浜市に住んでいる。
 
-<div class="row">
-{% include about/skills.html title="Major skills" source=site.data.major-skills %}
-{% include about/skills.html title="Minor skills" source=site.data.minor-skills %}
-</div>
-
-## Educational experience
+## 学歴
 
 <div class="row">
 {% include about/ja/timeline-education.html %}
 </div>
 
-## Work experience and internships
+## 研究及びソフトウェア開発
+
+<div class="row">
+{% include about/ja/timeline-research.html %}
+</div>
+
+## 職歴及びインターンシップ
 
 <div class="row">
 {% include about/ja/timeline-work.html %}
 </div>
 
-## Research and software works
-
 <div class="row">
-{% include about/ja/timeline-research.html %}
+{% include about/skills.html title="メジャースキル" source=site.data.major-skills %}
+{% include about/skills.html title="マイナースキル" source=site.data.minor-skills %}
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 个人简介
+title: 关于我
 permalink: /about-zh/
 weight: 4
 ---
