@@ -7,8 +7,8 @@ weight: 3
 
 # **About me**
 
-Hi I am **{{ site.author.name }}**,<br>
-A person who likes all kinds of interesting things and wants anything to be better.
+I am **{{ site.author.name }}**, now living in Yokohama. Thank you for coming to my blog.
+
 
 ## Educational experience
 
