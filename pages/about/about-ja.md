@@ -5,6 +5,8 @@ permalink: /about-ja/
 weight: 5
 ---
 
+<link rel="stylesheet" href="https://ss1.xrea.com/xin.g2.xrea.com/content/blog-style/japanese-font.css">
+
 # **私について**
 
 氏名：李欣，現在神奈川県横浜市に住んでいる。
