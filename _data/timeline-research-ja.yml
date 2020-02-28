@@ -1,4 +1,56 @@
-- title: Doctoral Student, Yokohama National University, JP
-  from: 2016
-  to: present
-  description: research
+- title: ジャーナル及び国際学会
+  from: 2017年
+  to: 2020年
+  description: "
+               [1] Xin Li and Tomoki Hamagami.
+               Wave-making resistance estimation through deep learning considering the distribution of ship figure.
+               <em>IEEJ Transactions on Electronics, Information and Systems</em>, 140(3):391--397, 2020. (in Japanese)
+               <br><br>
+               [2] Xin Li and Tomoki Hamagami.
+               An improved auto-encoder based on 2-level prioritized experience replay for high dimension skewed data.
+               In Hiroshi Sato, Saori Iwanaga, and Akira Ishii, editors,
+               <em>Proceedings of the 23rd Asia Pacific Symposium on Intelligent and Evolutionary Systems</em>,
+               volume 12 of <em>Proceedings in Adaptation, Learning and Optimization</em>, pages 93--105. Springer, 2020.
+               <br><br>
+               [3] Xin Li and Tomoki Hamagami.
+               Prioritized sampling method for autoencoder to reduce loss rate for skewed data.
+               <em>The papers of technical meeting on systems, IEE Japan</em>, 2018(39):199--203, 2018.
+               <br><br>
+               [4] Xin Li and Tomoki Hamagami.
+               Prioritized sampling method for autoencoder to reduce loss rate for skewed data.
+               In <em>The 28th Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence</em>,
+               volume 2018, pages 199--203.
+               The Institute of Electrical Engineers of Japan, 2018.
+               <br><br>
+               [5] Xin Li, Masaya Nakata, Hamatsu Fumiya, and Tomoki Hamagami.
+               A research about anomaly detection method for multidimensional time series data.
+               In <em>The International Conference on Electrical Engineering</em>, 2017.
+               "
+
+- title: 共同研究
+  from: 2016年
+  to: 2017年
+  description: "
+               [1] 王晋炜 and 李欣．《唐吉诃德》一语多译平行语料库构建设想．<br>
+               In <em>西班牙语论丛2017</em>．外语教学与研究出版社，2017．
+               <br><br>
+               [2] 王晋炜 and 李欣．外語專業學生口語交際策略實證研究-以西班牙語為例．<br>
+               In <em>第十一屆海峽兩岸外語教學研討會論文集</em>，pages 1--11．輔大書坊，台北，2016．
+               "
+
+- title: ソフトウェア著作
+  from: 2014年
+  to: 2014年
+  description: "
+               [1] 2014年11月：「顔認識及び音声認識に基づいた目の練習アプリ」が<br>
+               中国国家著作権局によりソフトウェア著作権取得。<br>
+               （記録番号：2014SR177728，ファイル番号：軟著登字第0846964号）
+               <br><br>
+               [2] 2014年9月：「Bag-of-wordsに基づいた画像検索分類システム」<br>
+               中国国家著作権局によりソフトウェア著作権取得。<br>
+               （記録番号：2014SR136257，ファイル番号：軟著登字第0805497号）
+               <br><br>
+               [3] 2014年5月：「Androidに基づいた高解像度画像生成システム」<br>
+               中国国家著作権局によりソフトウェア著作権取得。<br>
+               （記録番号：2014SR052862，ファイル番号：軟著登字第0722106号）
+               "
