@@ -1,5 +1,5 @@
-- title: 主要论文及国际会议
-  from: 2017年
+- title: 学术期刊
+  from: 2018年
   to: 2020年
   description: "
                [1] Xin Li and Tomoki Hamagami.
@@ -8,21 +8,30 @@
                <br><br>
                [2] Xin Li and Tomoki Hamagami.
                An improved auto-encoder based on 2-level prioritized experience replay for high dimension skewed data.
-               In Hiroshi Sato, Saori Iwanaga, and Akira Ishii, editors,
-               <em>Proceedings of the 23rd Asia Pacific Symposium on Intelligent and Evolutionary Systems</em>,
-               volume 12 of <em>Proceedings in Adaptation, Learning and Optimization</em>, pages 93--105. Springer, 2020.
+               <em>Adaptation, Learning and Optimization</em>, 12:93--105, 2020.
                <br><br>
                [3] Xin Li and Tomoki Hamagami.
                Prioritized sampling method for autoencoder to reduce loss rate for skewed data.
                <em>The papers of technical meeting on systems, IEE Japan</em>, 2018(39):199--203, 2018.
+               "
+
+- title: 国际会议
+  from: 2017年
+  to: 2020年
+  description: "
+               [1] Xin Li and Tomoki Hamagami.
+               An improved auto-encoder based on 2-level prioritized experience replay for high dimension skewed data.
+               In Hiroshi Sato, Saori Iwanaga, and Akira Ishii, editors,
+               <em>Proceedings of the 23rd Asia Pacific Symposium on Intelligent and Evolutionary Systems</em>,
+               volume 12 of <em>Proceedings in Adaptation, Learning and Optimization</em>, pages 93--105. Springer, 2020.
                <br><br>
-               [4] Xin Li and Tomoki Hamagami.
+               [2] Xin Li and Tomoki Hamagami.
                Prioritized sampling method for autoencoder to reduce loss rate for skewed data.
                In <em>The 28th Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence</em>,
                volume 2018, pages 199--203.
                The Institute of Electrical Engineers of Japan, 2018.
                <br><br>
-               [5] Xin Li, Masaya Nakata, Hamatsu Fumiya, and Tomoki Hamagami.
+               [3] Xin Li, Masaya Nakata, Hamatsu Fumiya, and Tomoki Hamagami.
                A research about anomaly detection method for multidimensional time series data.
                In <em>The International Conference on Electrical Engineering</em>, 2017.
                "
