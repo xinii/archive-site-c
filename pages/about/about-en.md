@@ -7,8 +7,8 @@ weight: 3
 
 # **About me**
 
-I am **{{ site.author.name }}**, now living in Yokohama. Thank you for coming to my blog.
-
+I am **{{ site.author.name }}**, living in Yokohama. Thanks for coming to my blog.
+The following is my profile and I look forward to working with you.
 
 ## Educational experience
 
