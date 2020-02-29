@@ -1,5 +1,5 @@
-- title: ジャーナル及び国際学会
-  from: 2017年
+- title: ジャーナル
+  from: 2018年
   to: 2020年
   description: "
                [1] Xin Li and Tomoki Hamagami.
@@ -8,38 +8,43 @@
                <br><br>
                [2] Xin Li and Tomoki Hamagami.
                An improved auto-encoder based on 2-level prioritized experience replay for high dimension skewed data.
-               In Hiroshi Sato, Saori Iwanaga, and Akira Ishii, editors,
-               <em>Proceedings of the 23rd Asia Pacific Symposium on Intelligent and Evolutionary Systems</em>,
-               volume 12 of <em>Proceedings in Adaptation, Learning and Optimization</em>, pages 93--105. Springer, 2020.
+               <em>Adaptation, Learning and Optimization, Springer</em>, 12:93--105, 2020.
                <br><br>
                [3] Xin Li and Tomoki Hamagami.
                Prioritized sampling method for autoencoder to reduce loss rate for skewed data.
                <em>The papers of technical meeting on systems, IEE Japan</em>, 2018(39):199--203, 2018.
+               "
+
+- title: 国際学会及び国内シンポジウム
+  from: 2017年
+  to: 2020年
+  description: "
+               [1] Xin Li and Tomoki Hamagami.
+               An improved auto-encoder based on 2-level prioritized experience replay for high dimension skewed data.
+               In <em>Proceedings of the 23rd Asia Pacific Symposium on Intelligent and Evolutionary Systems</em>, 2020.
                <br><br>
-               [4] Xin Li and Tomoki Hamagami.
+               [2] Xin Li and Tomoki Hamagami.
                Prioritized sampling method for autoencoder to reduce loss rate for skewed data.
-               In <em>The 28th Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence</em>,
-               volume 2018, pages 199--203.
-               The Institute of Electrical Engineers of Japan, 2018.
+               In <em>The 28th Fuzzy, Artificial Intelligence, Neural Networks and Computational Intelligence</em>, 2018.
                <br><br>
-               [5] Xin Li, Masaya Nakata, Hamatsu Fumiya, and Tomoki Hamagami.
+               [3] Xin Li, Masaya Nakata, Hamatsu Fumiya, and Tomoki Hamagami.
                A research about anomaly detection method for multidimensional time series data.
                In <em>The International Conference on Electrical Engineering</em>, 2017.
                "
-
 - title: 共同研究
   from: 2016年
   to: 2017年
   description: "
                [1] Jinwei Wang and Xin Li.
                Multi-translation parallel corpus construction of don quixote.
-               In <em>Spanish Paper Series 2017</em>. Foreign Language Teaching and Researching Press, 2017.
+               In <em>Spanish Paper Series 2017</em>, pages 4250--4423.
+               Foreign Language Teaching and Researching Press, Beijing, 11 2018.
                (in Simplified Chinese)
                <br><br>
                [2] Jinwei Wang and Xin Li.
-               An empirical study of oral communication strategies for foreign language students - Taking Spanish as an example.
-               In <em>Proceedings of the 11th Cross-Strait Foreign Language Teaching Symposium</em>,
-               pages 1--11. Fu Jen Catholic University Press, Taibei, 2016.
+               An empirical study of oral communication strategies for foreign language students - taking spanish as an example.
+               In <em>Proceedings of the 11th Cross-Strait Foreign Language Teaching Symposium</em>, pages 1--11.
+               Fu Jen Catholic University Press, Taibei, 9 2016.
                (in Traditional Chinese)
                "
 
