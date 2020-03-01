@@ -1,7 +1,8 @@
 ### Site Settings ###
 title               : xin blog
 description         : >-                               # >- means to ignore newlines until "url:"
-                      I don't know that if you know that I don't know you know that I'm X (in Li).
+                      I don't know that if you know that<br>
+                      I don't know you know that I'm X (in Li).<br>
                       Welcome to xin blog!
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
