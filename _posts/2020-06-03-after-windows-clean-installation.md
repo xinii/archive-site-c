@@ -33,7 +33,9 @@ set_el cn
 change_emacs xin
 emacs
 ssh-keygen -A
-emacs /etc/ssh/sshd_config # port:**** passwords:no
+emacs /etc/ssh/sshd_config
+ #Port ****
+ #PasswordAuthentication no
 cat {path to your pub key} > ~/.ssh/authorized_keys
 chmod 600 ~/.ssh/authorized_keys
 chmod 700 ~/.ssh
