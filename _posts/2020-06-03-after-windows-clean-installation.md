@@ -22,12 +22,13 @@ slmgr -ato
 
 ## Configuration of msys2
 ```sh
-pacman -S git emacs tmux fish gcc python
+pacman -S git fish tmux emacs gcc python
 cd ~
 git clone https://github.com/xinii/xinconfig .xinconfig
 cd .xinconfig
 ./setenv fish
 exec fish
+set_conf tmux
 set_el auto
 set_el cn
 change_emacs xin
