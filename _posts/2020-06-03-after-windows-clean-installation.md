@@ -9,9 +9,11 @@ comments: true
 ---
 
 ## Activation of your Windows 10
+```sh
 slmgr -ipk {your product key}
 slmgr -skms {kms server address of your company}
 slmgr -ato
+```
 
 ## Installation of some useful tools
 * [Msys2](https://www.msys2.org/)
@@ -19,6 +21,7 @@ slmgr -ato
 * [Ricty](https://github.com/edihbrandon/RictyDiminished)
 
 ## Configuration of msys2
+```sh
 pacman -S git emacs python fish
 cd ~
 git clone https://github.com/xinii/xinconfig .xinconfig
@@ -35,3 +38,4 @@ cat {path to your pub key} > ~/.ssh/authorized_keys
 chmod 600 ~/.ssh/authorized_keys
 chmod 700 ~/.ssh
 /usr/bin/sshd
+```
