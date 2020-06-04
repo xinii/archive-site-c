@@ -1,6 +1,6 @@
 ---
 title: Several windows registry modifications for the keyboard
-description: 
+description: Several windows registry modifications for the keyboard
 tags: [Windows, Japanese]
 style: fill
 color: primary
